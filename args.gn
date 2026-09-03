@@ -19,6 +19,9 @@ google_api_key = "x"
 google_default_client_id = "x"
 google_default_client_secret = "x"
 
+# Enable Chromium's Android New Tab Page customization UI, including custom backgrounds.
+enable_features = "NewTabPageCustomization,NewTabPageCustomizationV2,NewTabPageCustomizationToolbarButton"
+
 use_siso = true
 use_login_database_as_backend = true
 build_contextual_search = false
